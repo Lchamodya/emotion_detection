@@ -13,3 +13,7 @@ tokenizers>=0.15.0         # fast tokenization
 # Utilities
 numpy>=1.24.0
 tqdm>=4.65.0               # progress bars during download
+
+# Webcam emotion detection (for webcam_emotion_detector.py)
+fer>=22.0.0                # Facial Expression Recognition
+opencv-python>=4.5.0       # OpenCV for webcam and image processing

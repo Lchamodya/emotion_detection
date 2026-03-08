@@ -1,0 +1,13 @@
+name: emotion_webcam
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - deepface==0.0.99
+      - opencv-python==4.13.0.74
+      - tensorflow==2.21.0
+      - tf-keras
+      - protobuf==3.20.3
