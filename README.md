@@ -1,5 +1,5 @@
 # Webcam Emotion Detection – Smart Energy Systems Project
-### Real-time Facial Expression Analysis | University of Vaasa – TECH1001
+### Real-time Facial Expression Analysis
 
 ---
 
