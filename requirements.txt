@@ -1,0 +1,15 @@
+# ── Emotion Detection Project – Requirements ──────────────────────────────
+# Install with:  pip install -r requirements.txt
+
+# Core ML framework
+torch>=2.0.0               # deep learning backend (CPU version is fine)
+torchvision>=0.15.0        # often needed alongside torch
+
+# Hugging Face ecosystem
+transformers>=4.35.0       # pre-trained models + pipelines
+huggingface_hub>=0.19.0    # model downloading & caching
+tokenizers>=0.15.0         # fast tokenization
+
+# Utilities
+numpy>=1.24.0
+tqdm>=4.65.0               # progress bars during download
